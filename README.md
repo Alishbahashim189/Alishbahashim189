@@ -3,7 +3,7 @@
 
 ## About Me
 
-<h1 align="center"> 👋Hi, I'm Alishba Hashim</h1>
+<h2 align="center"> 👋Hi, I'm Alishba Hashim</h2>
 <h3 align="center">Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Application Development**
