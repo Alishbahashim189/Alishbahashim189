@@ -1,9 +1,9 @@
 
 ## About Me
-<!-- Intro  -->
+
 <h3 align="center">
         <samp>&gt;👋 Hi, I am 
-                <b><a target="_blank" href="https://alishba.me">Alishba Hashim</a></b>
+                <b><a target="_blank" href="https://alishba">Alishba Hashim</a></b>
         </samp>
 </h3>
 
@@ -23,7 +23,8 @@
    
 ---
 <br>
-    <br>
+<br>
+
     
 ## 🔧 Tools I Have Used and Learned
 
@@ -48,8 +49,6 @@
 
 ## 💬 Get In Touch!
 
-I’m open to **collaborative projects** in **cybersecurity**, **programming**, or **knowledge-sharing** initiatives. Feel free to reach out if you’d like to discuss ideas or explore ways we can work together.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alishba-hashim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -59,10 +58,11 @@ I’m open to **collaborative projects** in **cybersecurity**, **programming**, 
   </a>
 </p>
 
-
 ---
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
+## 💬 Github Stats
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
 <p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
