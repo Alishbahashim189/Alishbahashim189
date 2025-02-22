@@ -15,11 +15,12 @@
   </samp>
 </p>
 
-- 🔭 I’m currently working on **Application Development**
   
-- 🌱 I’m currently learning **React Native**
+- 🌍 Tech enthusiast with a vision for building impactful digital solutions.
   
-- 📫 Reach me at **alishbahashim189@gmail.com**
+- 🚀 Exploring advanced Android development with React-Native & enhancing problem-solving skills.
+  
+- 📫 Open to collaboration on exciting Web & App Development projects.
    
 ---
 <br>
