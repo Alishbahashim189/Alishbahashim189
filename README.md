@@ -1,7 +1,7 @@
 
 ---
 
-##About Me
+## About Me
 
 <h1 align="center"> 👋Hi, I'm Alishba Hashim</h1>
 <h3 align="center">Software Engineer from Pakistan</h3>
