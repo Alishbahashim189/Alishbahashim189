@@ -5,9 +5,13 @@
 
 <h1 align="center"> 👋Hi, I'm Alishba Hashim</h1>
 <h3 align="center">Software Engineer from Pakistan</h3>
+
 - 🔭 I’m currently working on **Application Development**
+  
 - 🌱 I’m currently learning **React Native**
+  
 - 📫 Reach me at **alishbahashim189@gmail.com**
+  
 ---
 
 
@@ -16,7 +20,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alishba-hashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alishba-hashim/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🔧 Tools I Have Used and Learned
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
