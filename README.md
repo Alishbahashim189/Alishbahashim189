@@ -1,5 +1,5 @@
 
-## About Me
+##  👨‍🎓 About Me
 
 <h3 align="center">
         <samp>&gt;👋 Hi, I am 
@@ -59,7 +59,7 @@
 ---
 <br>
 
-## 💬 Github Stats
+## 📊 Github Stats
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
