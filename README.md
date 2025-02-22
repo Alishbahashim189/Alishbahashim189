@@ -23,9 +23,7 @@
    
 ---
 <br>
-<br>
 
-    
 ## 🔧 Tools I Have Used and Learned
 
 <br>
@@ -59,6 +57,7 @@
 </p>
 
 ---
+<br>
 
 ## 💬 Github Stats
 
