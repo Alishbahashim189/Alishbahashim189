@@ -33,10 +33,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,12 +61,10 @@ I’m open to **collaborative projects** in **cybersecurity**, **programming**, 
 
 
 ---
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
 
+<p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117" alt="alishbahashim189" /></p>
 
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishbahashim189&theme=radical&border=7F3FBF&background=0D1117&show_icons=true&locale=en" alt="alishbahashim189" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishbahashim189&show_icons=true&locale=en&layout=compact" alt="alishbahashim189" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishbahashim189&show_icons=true&locale=en" alt="alishbahashim189" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishbahashim189&" alt="alishbahashim189" /></p>
