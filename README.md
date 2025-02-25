@@ -1,12 +1,9 @@
 
 ##  👨‍🎓 About Me
-
 <h3 align="center">
-        <samp>&gt;👋 Hi, I am 
-                <b><a target="_blank" href="https://alishba">Alishba Hashim</a></b>
+        <samp>&gt;👋 Hi, I am <b>Alishba Hashim</b>
         </samp>
 </h3>
-
 <p align="center"> 
   <samp>
     Full Stack Web & App Developer from <b>Karachi, Pakistan</b>
@@ -14,8 +11,6 @@
     <br>
   </samp>
 </p>
-
-  
 - 🌍 Tech enthusiast with a vision for building impactful digital solutions.
   
 - 🚀 Exploring advanced Android development with React-Native & enhancing problem-solving skills.
@@ -24,6 +19,7 @@
    
 ---
 <br>
+
 
 ## 🔧 Tools I Have Used and Learned
 
